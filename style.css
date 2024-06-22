@@ -1,0 +1,23 @@
+html{
+  background-color: #202030;
+}
+
+.header{
+  background-color: #10101550;
+  border: solid 4px black;
+  border-radius: 8px;
+  padding: 10px;
+  margin: 4%;
+}
+
+#t1{
+  background-color: #FFFFFF;
+}
+
+#st1{
+  background-color: #8080FF;
+}
+
+#st2{
+  background-color: #808080;
+}
